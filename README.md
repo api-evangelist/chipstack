@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Chipstack is a company surfaced as a portfolio company of khosla-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Chipstack is an AI-driven semiconductor verification company that uses agentic AI to automate chip design verification, one of the most time-consuming stages of building a complex chip (often 60% or more of total development effort). Its product suite is a set of specialized AI agents — a Mental Model AI Agent, a Formal AI Agent, a Unit Simulation AI Agent, and a UVM AI Agent — that read design intent and generate, run, and reason about verification tasks to shift that work earlier in the design cycle and cut the time and resources it takes to tape out. Founded and based across Seattle, WA and San Jose, CA, and backed by Khosla Ventures, Chipstack is an enterprise, demo-request product rather than a public developer platform: as of this profile it publishes no public API, developer documentation, SDK, or developer portal. In 2026 the company announced it is joining Cadence. This profile is maintained in the API Evangelist network for discovery and monitoring.
 
-Backed by: khosla-ventures — https://www.chipstack.ai/
+**Areas:** Company · Artificial Intelligence · Semiconductors · Chip Design · Verification · EDA · AI Agents
+
+## Chipstack on APIs.io
+
+Everything profiled for Chipstack is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/chipstack/](https://apis.io/providers/chipstack/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Chipstack Domain Security](https://apis.io/security/chipstack/chipstack-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.chipstack.ai/)
+- [Support](https://www.chipstack.ai/contact-pages/contact)
+- [Blog](https://www.chipstack.ai/blog)
+- [Terms of service](https://www.chipstack.ai/terms-privacy-cookies)
+- [Privacy policy](https://www.chipstack.ai/terms-privacy-cookies#privacy)
+
+## API Evangelist rating
+
+**Kin Score 10.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/chipstack/](https://apis.io/providers/chipstack/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Chipstack: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/chipstack/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
